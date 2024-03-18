@@ -5,7 +5,7 @@ on:
   
 jobs:
   warding:
-    name: warding
+    name: warding-test
     runs-on: ubuntu-latest
     permissions:
       contents: write
